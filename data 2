@@ -1,6 +1,6 @@
 [{
    "Semester":[
-      { "semester 1":
+      {  "sem": "semester 1"
         {
          "sl.no": "1"
          "Subject":"java",
