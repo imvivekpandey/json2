@@ -1,1 +1,48 @@
-
+[{
+   "Semester":[
+      { "semester 1":
+        {
+         "sl.no": "1"
+         "Subject":"java",
+         "class held":"45",
+         "class attended":"25"
+      }, {
+         "sl.no": "2"
+         "Subject":"c++",
+         "class held":"45",
+         "class attended":"250"
+      }
+      },
+      {
+         "username":"belal",
+         "name":"Belal Khan",
+         "course":"MCA",
+         "session":"2015-2018"
+      },
+      {
+         "username":"ramiz",
+         "name":"Ramiz Khan",
+         "course":"MBA",
+         "session":"2015-2017"
+      },
+      {
+         "username":"zafar",
+         "name":"Zafar Khan",
+         "course":"MBA",
+         "session":"2014-2016"
+      },
+      {
+         "username":"kya bat hai",
+         "name":"Zafar Khan",
+         "course":"MBA",
+         "session":"2014-2016"
+      },
+      {
+         "username":"jio raja",
+         "name":"Zafar Khan",
+         "course":"MBA",
+         "session":"2014-2016"
+      }
+   ]
+}
+]
